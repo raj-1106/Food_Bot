@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>RecipeAI</h1>
+  <h1>Recipe.AI</h1>
 </div>
 
-### What is Recipe>AI:
+### What is Recipe.AI:
 - It is a webapp to answer your queries with recipes.
 - This webapp will answer recipes specific to ingredients user have.
 - The user need to enter the specific ingredients that they have.
