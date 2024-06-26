@@ -31,17 +31,13 @@
 #### Fronted
 
 ```
-Typescript
-Tailwind CSS
-Chakra UI
-Rainbowkit
-Wagmi
+ReactJS
+CSS
 ```
 
 #### Backend
 
 ```
-Solidity
-Web3 Storage
-5irechain
+NodeJS
+ExpressJS
 ```
