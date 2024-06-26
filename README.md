@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Recipe.AI</h1>
+  <h1>RecipeAI</h1>
 </div>
 
 ### What is Recipe>AI:
