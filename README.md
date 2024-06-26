@@ -11,19 +11,19 @@
 ### How to use Recipe.AI:
 <br>
     <p align="center">
-      <img src="Images/Wallet Connect.png" height=50% width=50%>
+      <img src="Images/Screenshot 2023-10-20 230638.png" height=50% width=50%>
     </p>
   <br>
 - First step is to enter the name ingredients which user have.
   <br>
     <p align="center">
-      <img src="Images/Wallet Connect.png" height=50% width=50%>
+      <img src="Images/1.png" height=50% width=50%>
     </p>
   <br>
 - Then the bot will provide the recipe according to it.
   <br>
     <p align="center">
-      <img src="Images/Document.png" height=50% width=50%>
+      <img src="Images/3.png" height=50% width=50%>
     </p>
   <br>
 
